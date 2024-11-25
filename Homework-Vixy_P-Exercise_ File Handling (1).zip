@@ -62,7 +62,7 @@ while commands != "End":
                 file.close()
     commands = input()
 
-4. Directory traversal
+4.  Directory traversal
 
 import os
 from pathlib import Path
